@@ -1,0 +1,1 @@
+jQuery(function(){try{var input=jQuery("#edit-field-exa-evento-tel-0-value");if(input.val().length>0)jQuery("#edit-field-extension-wrapper").show();input.keydown(function(){setTimeout(function(){if(input.val().length>0){jQuery("#edit-field-extension-wrapper").show()}else jQuery("#edit-field-extension-wrapper").hide()},100)})}catch(e){}})

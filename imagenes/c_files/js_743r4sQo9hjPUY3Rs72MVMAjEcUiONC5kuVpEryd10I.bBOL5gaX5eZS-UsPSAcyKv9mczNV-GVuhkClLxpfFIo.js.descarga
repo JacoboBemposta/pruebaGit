@@ -1,0 +1,1 @@
+jQuery("#edit-date-min").on("click",function(){if(jQuery("#edit-date-max").val()=="")jQuery("#edit-date-max").val(jQuery("#edit-date-min").val())});jQuery("#edit-date-max").on("click",function(){if(jQuery("#edit-date-min").val()=="")jQuery("#edit-date-min").val(jQuery("#edit-date-max").val())})

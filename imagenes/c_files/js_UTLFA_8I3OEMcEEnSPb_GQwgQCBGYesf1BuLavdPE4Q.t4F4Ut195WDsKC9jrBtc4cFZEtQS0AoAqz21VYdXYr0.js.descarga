@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){CKEDITOR.on("instanceReady",function(event){const editor=event.editor;editor.on('doubleclick',function(evt){if(evt.data.dialog==='link')evt.data.dialog.getCurrent().hide()})})})

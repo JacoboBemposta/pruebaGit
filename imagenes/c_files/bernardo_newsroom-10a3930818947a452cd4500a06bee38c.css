@@ -1,0 +1,17 @@
+.eventos-exatec-all .views-exposed-form .form-item-textfield + .form-item-textfield {
+  display: none !important;
+}
+.eventos-exatec-all .views-exposed-form .button[type="submit"] {
+  height: auto !important;
+  float: right !important;
+  margin-top: -68px !important;
+}
+.eventos-exatec-all .views-exposed-form .form-item {
+  max-width: none !important;
+  padding-right: 116px !important;
+}
+.eventos-exatec-all .views-exposed-form .form-item input {
+  background: #fafafa !important;
+  border-bottom: 1px solid !important;
+  color: #212121 !important;
+}

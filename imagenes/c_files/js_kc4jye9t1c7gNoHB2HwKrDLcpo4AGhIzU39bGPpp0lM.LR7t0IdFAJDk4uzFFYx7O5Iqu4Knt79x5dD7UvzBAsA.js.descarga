@@ -1,0 +1,1 @@
+jQuery(document).ajaxComplete(function(){input=jQuery("input[name=search]");input.focus();var tmpStr=input.val();input.val('');input.val(tmpStr)})
